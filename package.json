@@ -1,0 +1,32 @@
+{
+  "name": "laravel-elixir-style-guide",
+  "version": "0.1.0",
+  "description": "Build style guide with hologram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaceju/laravel-elixir-style-guide"
+  },
+  "keywords": [
+    "gulp",
+    "laravel",
+    "elixir"
+  ],
+  "author": {
+    "name": "Jace Ju",
+    "email": "jaceju@gmail.com",
+    "url": "https://github.com/jaceju"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaceju/laravel-elixir-style-guide/issues"
+  },
+  "homepage": "https://github.com/jaceju/laravel-elixir-style-guide",
+  "dependencies": {
+    "gulp-hologram": "^1.1.1",
+    "underscore": "^1.8.2"
+  }
+}
