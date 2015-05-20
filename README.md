@@ -1,6 +1,6 @@
 # laravel-elixir-style-guide
 
-Build style guide with [Hologram](https://github.com/trulia/hologram) and [groo-theme](https://github.com/jaceju/groot-theme).
+Build style guide with [Hologram](https://github.com/trulia/hologram) and [groot-theme](https://github.com/jaceju/groot-theme).
 
 ## Install
 
@@ -20,11 +20,11 @@ documentation_assets: ./public/bower_components/groot-theme
 dependencies:
   - ./public/images
 css_include:
-  - 'css/vendor.css'
-  - 'css/main.css'
+  - 'http://example.com/css/vendor.css'
+  - 'http://example.com/css/main.css'
 js_include:
-  - 'js/vendor.js'
-  - 'js/index.js'
+  - 'http://example.com/js/vendor.js'
+  - 'http://example.com/js/index.js'
 ```
 
 Add document block in each style file, for example:
