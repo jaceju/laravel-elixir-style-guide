@@ -1,6 +1,5 @@
 {
   "name": "laravel-elixir-style-guide",
-  "version": "0.1.0",
   "description": "Build style guide with hologram.",
   "main": "index.js",
   "scripts": {
